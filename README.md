@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Al-tahat</h1>
-<h3 align="center">Mobile Applications Flutter Developer</h3>
+<h3 align="center">I'm developing apps using Flutter for Android and iOS, attention to the details of my project and invest my experience to achieve the best results.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
